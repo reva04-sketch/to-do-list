@@ -4,7 +4,7 @@ name: CI/CD for to-do app
 on: 
   push:
     branches:
-      - main
+      - master
 
 jobs: 
   build:
